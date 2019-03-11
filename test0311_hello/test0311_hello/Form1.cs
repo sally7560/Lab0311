@@ -20,7 +20,7 @@ namespace test0311_hello
         private void button2_Click(object sender, EventArgs e)
         {
             button2.Text = DateTime.Now.ToString();
-            //hello
+            //master test
         }
     }
 }
